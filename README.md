@@ -1,5 +1,5 @@
 ## Hi! I am Tatiana 👋
-### A Junior Full Stack Developer from Amsterdam
+### A Junior Full Stack Developer based in Amsterdam
 
 I am self-starter with multiple years of experience in various countries and industries. 
 A year ago my life took a turn since I started to learn coding.
