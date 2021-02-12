@@ -8,5 +8,4 @@ where I've been following an intensive full-stack web development bootcamp for t
 
 In my last project [Tracker](https://github.com/TatianaIvanovaW/TravelTracker-client) I've been working with such technologies as React, Redux and GraphQl
 
-[Travel.Tips](https://github.com/GuidoWestra/Travel-Tips-Front) app I developed in collaboration with me schoolmates
 
