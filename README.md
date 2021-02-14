@@ -1,4 +1,4 @@
-## Hi! I am Tatiana 👋
+## Hi! I am Tatiana 👋👋👋
 ### A Junior Full Stack Developer based in Amsterdam
 
 I am self-starter with multiple years of experience in various countries and industries. 
