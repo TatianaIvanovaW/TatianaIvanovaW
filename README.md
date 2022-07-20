@@ -1,2 +1,2 @@
 ## Hi! I am Tatiana 👋👋👋
-### A Junior Frontend Developer based in Amsterdam
+### A Frontend Developer based in Amsterdam
