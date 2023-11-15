@@ -1,2 +1,2 @@
 ## Hi! I am Tatiana 👋👋👋
-### A Frontend Developer based in Amsterdam
+### A Software Developer based in Amsterdam
